@@ -1,9 +1,5 @@
 #!/usr/bin/python 
 
- '''coded by creack_dark''' 
-
-  
-
  import smtplib 
 
  from os import system 
